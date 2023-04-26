@@ -1,2 +1,3 @@
 # 2023-Turkey-EQ
-2022 Turkey earthquake sequence - displacement from SAR
+
+Co-seismic displacement of the 2023 Mw 7.8 Kahramanmaraş, Turkey earthquake ([USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive)).
