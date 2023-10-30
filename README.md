@@ -14,7 +14,7 @@ The SAR data used in the study includes the following datasets from ALOS-2, LuTa
 
 + ALOS2_A184_20220905_20230220: [InSAR](https://zenodo.org/record/8402190/files/ALOS2_A184_20220905_20230220_IFG.zip) (230 MB) + [multiple aperture interferometry](https://zenodo.org/record/8402190/files/ALOS2_A184_20220905_20230220_MAI.zip) (200 MB)
 + ALOS2_D077_20220916_20230217: [InSAR](https://zenodo.org/record/8402190/files/ALOS2_D077_20220916_20230217_IFG.zip) (250 MB) + [multiple aperture interferometry](https://zenodo.org/record/8402190/files/ALOS2_D077_20220916_20230217_MAI.zip) (200 MB)
-+ LT1_D068_20220411_20230210: [InSAR](https://zenodo.org/record/8402190/files/LT1_D068_20220411_20230210_IFG.zip) (870 MB)
++ LT1_D068_20220411_20230210: [InSAR](https://zenodo.org/record/8402190/files/LT1_D068_20220411_20230210_IFG.zip) (580 MB)
 + S1_A014_20230128_20230209: speckle tracking [range](https://zenodo.org/record/8402190/files/S1_A014_20230128_20230209_OFF_RG.zip) (16 MB) + [azimuth](https://zenodo.org/record/8402190/files/S1_A014_20230128_20230209_OFF_AZ.zip) (8 MB)
 + S1_A116_20230204_20230228: speckle tracking [range](https://zenodo.org/record/8402190/files/S1_A116_20230204_20230228_OFF_RG.zip) (17 MB) + [azimuth](https://zenodo.org/record/8402190/files/S1_A116_20230204_20230228_OFF_AZ.zip) (9 MB)
 + S1_D021_20230129_20230210: speckle tracking [range](https://zenodo.org/record/8402190/files/S1_D021_20230129_20230210_OFF_RG.zip) (18 MB) + [azimuth](https://zenodo.org/record/8402190/files/S1_D021_20230129_20230210_OFF_AZ.zip) (10 MB)
