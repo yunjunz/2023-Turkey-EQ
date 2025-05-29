@@ -8,6 +8,10 @@ This repo contains notebooks for the co-seismic deformation of the 2023 Mw 7.8 K
 
 + Xu, L., Mohanna, S., Meng, L., Ji C, Ampuero, J.P., Yunjun, Z., Hasnain, M., Chu, R., Liang, C. (2023) The overall-subshear and multi-segment rupture of the 2023 Mw7.8 Kahramanmaraş, Turkey earthquake in millennia supercycle. _Communications Earth & Environment, 4_, 379, doi:[10.1038/s43247-023-01030-x](https://doi.org/10.1038/s43247-023-01030-x).
 
+<p align="center">
+  <img width="600" src="docs/defoHz.jpg">
+</p>     
+
 ### Data ([Zenodo](https://doi.org/10.5281/zenodo.7877812))
 
 The SAR data used in the study includes the following datasets from ALOS-2, LuTan-1, and Sentinel-1 satellites. The products are available on Zenodo in the link above.
